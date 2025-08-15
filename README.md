@@ -21,10 +21,13 @@
 
 
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayush-teotia&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-teotia&theme=tokyonight" />
-</p>
+
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushteotia&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushteotia&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aayushteotia&theme=radical)
+
 
 ---
 
