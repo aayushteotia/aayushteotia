@@ -10,11 +10,9 @@
 <p>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ffff" />
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00ffff" />
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ff6600" />
 <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=00ccff" />
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=ff9900" />
-<img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=ffcc00" />
 </p>
 
 ---
