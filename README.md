@@ -10,10 +10,12 @@
 <p>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ffff" />
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00ffff" />
-<img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=00ccff" />
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=ffcc00" />
+<img src="https://img.shields.io/badge/Microsoft%20Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=00ff00" />
 <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=ff9900" />
 </p>
+
 
 ---
 
